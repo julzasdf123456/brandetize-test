@@ -11,7 +11,7 @@ export default {
         oxygen : ["Oxygen", "sans-serif"]
       },
       animation: {
-        spin: 'spin 3s linear infinite', // Customizable speed (e.g., 3s for slower rotation)
+        spin: 'spin 8s linear infinite', // Customizable speed (e.g., 3s for slower rotation)
       },
       keyframes: {
         spin: {
