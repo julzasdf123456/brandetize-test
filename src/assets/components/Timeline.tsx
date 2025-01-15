@@ -90,7 +90,7 @@ function Timeline() {
 
   return (
     <>
-      <div className="h-full flex lg:flex-row md:flex-row flex-col lg:px-[150px] md:px-[90px] px-[2%] pt-[70px] gap-x-[28px]">
+      <div className="h-full flex lg:flex-row md:flex-row flex-col lg:px-[150px] md:px-[70px] px-[2%] pt-[70px] gap-x-[28px]">
         <div className="lg:w-5/12 md:w-5/12 lg:px-[5%] md:px-[5%] px-[25%] lg:pb-[0px] md:pb-[0px] pb-[50px]">
           <h1
             className="lg:text-left md:text-left text-center font-playfair font-bold lg:text-[65px] md:text-[55px] text-[30px] text-[#2c2820]"

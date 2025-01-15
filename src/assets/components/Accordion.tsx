@@ -30,7 +30,7 @@ function Accordion() {
 
   return (
     <>
-      <div className="h-full flex lg:flex-row md:flex-row flex-col lg:px-[150px] md:px-[90px] pt-[40px] pb-[110px] lg:gap-x-[20px] md:gap-x-[10px]">
+      <div className="h-full flex lg:flex-row md:flex-row flex-col lg:px-[150px] md:px-[70px] pt-[40px] pb-[110px] lg:gap-x-[20px] md:gap-x-[10px]">
         <div className="px-[3%] block sm:hidden">
           <img src={accordionImg} alt="" />
         </div>

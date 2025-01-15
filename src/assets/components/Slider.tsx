@@ -46,7 +46,7 @@ function Slider() {
   return (
     <>
       {/* SHOW NORMAL VIEW ON LG SCREENS */}
-      <div className="h-full lg:flex md:flex flex-row lg:px-[150px] md:px-[90px] py-[70px] bg-[#7e7666] gap-x-[28px] hidden sm:block">
+      <div className="h-full lg:flex md:flex flex-row lg:px-[150px] md:px-[80px] py-[70px] bg-[#7e7666] gap-x-[28px] hidden sm:block">
         <div className="w-6/12 flex flex-col">
           <h1
             className="font-playfair text-[40px] font-bold py-[40px]"
